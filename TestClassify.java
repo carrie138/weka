@@ -1,4 +1,4 @@
-package examples;
+package weka;
 
 import java.io.BufferedWriter;
 import java.io.File;
